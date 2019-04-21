@@ -5,3 +5,4 @@ add four line
 add five line
 add a six line
 add a seventh line
+welcome to study git lecture
